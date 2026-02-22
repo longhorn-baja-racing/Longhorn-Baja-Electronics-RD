@@ -12,6 +12,7 @@ In a Baja SAE car, the sensor suite acts as the vehicle’s "nervous system," ga
 ### Senors:
 + [Temperature](https://github.com/maanasr88/Longhorn-Baja-Electronics-RD/tree/main/Temperature)
 + [RPM](https://github.com/maanasr88/Longhorn-Baja-Electronics-RD/tree/main/RPM)
++ [IMU/GPS](https://github.com/maanasr88/Longhorn-Baja-Electronics-RD/tree/main/IMU-GPS)
 + [Driver Inputs](https://github.com/maanasr88/Longhorn-Baja-Electronics-RD/tree/main/Driver%20Inputs)
 + [Fuel Gauge](https://github.com/maanasr88/Longhorn-Baja-Electronics-RD/tree/main/Fuel%20Gauge)
 + [Suspension](https://github.com/maanasr88/Longhorn-Baja-Electronics-RD/tree/main/Suspension)
