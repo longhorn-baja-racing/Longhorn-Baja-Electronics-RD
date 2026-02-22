@@ -1,5 +1,7 @@
 # Longhorn-Baja-Electronics-RD
 
+## About Us
+
 Leads: Maanas Rastogi, Sree Gardas\
 Members:
 
