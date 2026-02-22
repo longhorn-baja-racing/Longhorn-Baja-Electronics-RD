@@ -1,7 +1,7 @@
 # Longhorn-Baja-Electronics-RD
 
-Leads: Maanas Rastogi, Sree Gardas\
-Members: 
+### Leads: Maanas Rastogi, Sree Gardas
+### Members: 
 
 The Electronics R&D team designs and integrates the "nervous system" of the vehicle, focusing on robust data acquisition and embedded systems. We bridge the gap between mechanical hardware and performance data by developing custom PCBs, writing firmware for real-time telemetry, and deploying specialized sensors. Our mission is to transform raw mechanical stress into actionable insights, ensuring the car is both faster on the track and more reliable in the mud.
 
