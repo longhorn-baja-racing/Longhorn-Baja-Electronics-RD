@@ -2,7 +2,7 @@
 
 ## About Us
 
-**Leads:** Maanas Rastogi, Sree Gardas\
+**Leads:** Maanas Rastogi, Sree Gardas
 
 **Members:** Jose Varela, Soham Mule, Krithik Sama, Joshua Chavarria, Anmol Dubey, Ayushi Priyadarshani, Luke Walkup, Pranav Shivashankar, Elizabeth Gonzalez, Ashwin Thomas, Aran Chandramohan, ...
 
