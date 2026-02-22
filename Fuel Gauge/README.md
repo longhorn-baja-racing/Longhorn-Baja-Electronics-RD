@@ -1,5 +1,6 @@
-# Introduction
+# Introduction:
 
-The goal of this project was to develop a fuel level indicator system that can inform the driver of when to return to the pit to refuel. Rather than providing the driver with a specific fuel level, the driver would know whether the tank is full or approaching empty. With a full tank, a certain amount of ride-time can be calculated. The proposed system that achieved the stated goals changed as we conducted more research for the project. Since modification to the fuel tank is strictly prohibited, we developed a way to measure the fuel level inside the fuel tank without making any measurements directly inside the fuel tank. At first, we proposed using a flow rate measurement device to measure the flow rate from the fuel tank to the engine, and then integrate that fuel rate over time to calculate the total fuel consumption. However, upon further research, we found that no accessible, COTS fuel sensors exist that measure flow rates at the speeds we are trying to measure. The current solution uses a system similar to a water level to measure the fuel level which is inside the tank using a device outside of the tank.
+The goal for this project was to eliminate any confusion drivers may have when driving during the endurance race. Many teams currently measure their fuel level by estimating their average fuel consumption rate, and stopping their driver after a certain amount of time passes. This system is inaccurate and inefficient. This project aims to give that data to the driver in an easy to understand way. The specific end goal for this project is to provide the driver with a fuel low indicator light that informs him when he needs to return to the pit for a refueling.
+
 
 
