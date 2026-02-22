@@ -1,0 +1,3 @@
+# Introduction:
+
+The goal of this paper is to analyze the integration of an IMU(Inertial Measurement Unit) and GPS(Global Positioning System) into a competitive Baja vehicle. IMUs have the ability to track movement in up to 9 axises and when integrated with a GPS can provide accurate acceleration data and greatly enhance vehicle tracking. Such a system has the potential to greatly enhance driver performance as analyzing driver inputs in conjunction with GPS/IMU data provides unique insight into how the vehicle responds to the driver. This system would involve a GPS/IMU module, a trigger for data collection, and an ESP-32 that would collect the GPS/IMU output. 
