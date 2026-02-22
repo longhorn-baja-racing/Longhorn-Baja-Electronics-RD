@@ -4,7 +4,7 @@
 
 **Leads:** Maanas Rastogi, Sree Gardas
 
-**Members:** Jose Varela, Soham Mule, Krithik Sama, Joshua Chavarria, Anmol Dubey, Ayushi Priyadarshani, Luke Walkup, Pranav Shivashankar, Elizabeth Gonzalez, Ashwin Thomas, Aran Chandramohan, ...
+**Members:** Jose Varela, Soham Mule, Krithik Sama, Joshua Chavarria, Anmol Dubey, Ayushi Priyadarshani, Luke Walkup, Pranav Shivashankar, Elizabeth Gonzalez, Ashwin Thomas, Aran Chandramohan, Tanish Doorsala, Aran Chandramohan, 
 
 The Electronics R&D team designs and integrates the "nervous system" of the vehicle, focusing on robust data acquisition and embedded systems. We bridge the gap between mechanical hardware and performance data by developing custom PCBs, writing firmware for real-time telemetry, and deploying specialized sensors. Our mission is to transform raw mechanical stress into actionable insights, ensuring the car is both faster on the track and more reliable in the mud.
 
